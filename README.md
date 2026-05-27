@@ -1,5 +1,5 @@
 # 💫 About Me:
-A System Developer student<br>I'm looking to explore further on the digital world<br>Practice makes improvement<br> This platform provides all of my school projects
+A System Developer student(full stack)<br>I'm looking to explore further on the digital world<br>Practice makes improvement<br> This platform provides all of my school projects
 
 
 ## 🌐 Socials:
